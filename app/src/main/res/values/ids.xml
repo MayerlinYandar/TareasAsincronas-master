@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_txv_id" type="id" />
+    <item name="id_txv_title" type="id" />
+    <item name="id_txv_body" type="id" />
+    <item name="id_rcv_data2" type="id" />
+</resources>
